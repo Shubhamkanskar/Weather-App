@@ -19,5 +19,6 @@ Key Features:
 
 
 #ScreenShot
-![2023-09-20 10 36 26](https://github.com/Shubhamkanskar/Weather-App/assets/142893960/bf517525-782e-4d1b-b59d-cae3e8b90473)
+![2023-09-20 10 36 26](https://github.com/Shubhamkanskar/Weather-App/assets/142893960/bf517525-782e-4d1b-b59d-
+)
 ![2023-09-20 10 38 15](https://github.com/Shubhamkanskar/Weather-App/assets/142893960/33be37ac-61b5-4d72-837b-2d6340da2a6f)
